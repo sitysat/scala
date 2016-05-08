@@ -1,0 +1,4 @@
+exit
+object Hi{
+println( "HI" )
+exit

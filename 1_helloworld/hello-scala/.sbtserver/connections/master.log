@@ -1,0 +1,22 @@
+New log file opened at Sat May 07 23:34:09 ICT 2016 by 3276@SITTAPONG-S
+Taking next connection to: 60728
+New client attempting to connect on port: 60729-60728
+  Address = /169.254.41.114:60728
+This client on port 60729 has uuid a0f1d52c-7176-4735-b225-83ebe8f6e715 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-a0f1d52c-7176-4735-b225-83ebe8f6e715
+Taking next connection to: 60728
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60728
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60728
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60728
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 3276@SITTAPONG-S logs at Sun May 08 10:57:12 ICT 2016, goodbye.
